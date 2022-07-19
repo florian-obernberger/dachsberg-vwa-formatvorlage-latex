@@ -195,7 +195,7 @@
         
  %       {\large Vorwissenschaftliche Arbeit verfasst von\\\textbf{\@author},\\Klasse \theklasse}
         \vfill
-        \\[2\baselineskip]
+        \leavevmode \\[2\baselineskip]
  %       {\large \thebetreuerlabel: \thebetreuer}\\[2\baselineskip]
  %       {\large \theschule}\\
  %       {\theschuladresse}\\[\baselineskip]

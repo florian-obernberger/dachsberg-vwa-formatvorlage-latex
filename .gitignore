@@ -1,1 +1,6 @@
+# IDE Folders
 .vscode/
+
+# LOG FIles
+*.log
+
