@@ -9,5 +9,5 @@
 *.directory
 *.egg
 *.pypirc
-build/*
-bibulous/doc/*
+bibulous/doc/
+bibulous/dist/
