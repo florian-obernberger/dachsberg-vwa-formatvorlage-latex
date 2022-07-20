@@ -10,4 +10,4 @@
 *.egg
 *.pypirc
 build/*
-bibolous/doc/*
+bibulous/doc/*
