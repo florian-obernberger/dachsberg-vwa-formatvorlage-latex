@@ -4,3 +4,9 @@
 # LOG FIles
 *.log
 
+# Bibolous
+*.pyc
+*.directory
+*.egg
+*.pypirc
+build/*
