@@ -1,8 +1,13 @@
 # IDE Folders
 .vscode/
 
-# LOG FIles
+# Unnecessary LaTeX Files
 *.log
+*.aux
+*.out
+
+# ReST Files
+*.rst
 
 # Bibolous
 *.pyc
