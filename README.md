@@ -18,8 +18,7 @@ Vorlage beschrieben.
 **Linux**
 
 ```bash
-sudo apt install texlive-lang-german texlive-latex-base texlive-fonts-recommended
-texlive-fonts-extra texlive-latex-extra
+sudo apt install texlive-lang-german texlive-latex-base texlive-fonts-recommended texlive-fonts-extra texlive-latex-extra
 ```
 
 **Windows**
