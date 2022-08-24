@@ -1,5 +1,5 @@
 TEMPLATES:
-book = <author_part>: <title_part>[<edition.if_not_one()>.] <place_year>[. <opt_url>]
+book = <author_part>: <title_part>[<edition.if_not_one()>. Auflage] <place_year>[. <opt_url>]
 incollection = <author_part>: <title_part> In: <editor_part>: <booktitle>.[<edition.if_not_one()>.] <place_year>[. <opt_url>]
 article = <author_part>: <title_part> In: <journal>. [<pubdate>|<date>|o.A.][. <opt_url>]
 pdf = <author_part>: <title_part> <place_year> Als Download: \url{<url>}[ (Zugriff: <accessed>)]
