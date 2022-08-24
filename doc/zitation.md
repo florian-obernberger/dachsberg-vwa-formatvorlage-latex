@@ -190,6 +190,24 @@ Hier ein paar Beispiele an Einträgen und das dadurch entstehende Vollzitat:
 > Wie man sieht, ist der Inhalt eines jeden Felds zwischen zwei geschwungenen Klammern. Auch ist
 > jedes Feld durch ein Komma vom nächsten getrennt. *Das letzte Feld darf am Ende kein Komma haben!*
 
+## Zitieren im $\LaTeX$ Dokument
+
+Beim Schreiben der VWA finden die in der `vwa.bib` Datei gespeicherten Schlüssel wieder Verwendung.
+Kurz und knapp: Will man ein Zitat einfügen, kann man das schlicht mit dem Befehl `\cite{key}`.
+
+### Kurz- und Langzitat
+
+Der `\cite` Befehl erstellt beim ersten Mal ein Langzitat. Wird dann dieselbe Quelle noch einmal
+zitiert, wird automatisch ein Kurzzitat erstellt. Diese kann man aber auch manuell erstellen mit
+den folgenden zwei Befehlen: `\kurzzitat` und `\langzitat`. Zu verwenden sind sie genau so wie
+`\cite`.
+
+### Seiten Angaben einfügen
+
+`\cite` hat einen optionalen Parameter, der am Ende der Zitation angefügt wird. Möchte man also
+eine Seiten Angabe hinzufügen -- oder irgendetwas anderes -- macht man das wie folgt:
+`\cite[S. 69]{key}`.
+
 ## Quellen
 
 Bibulous developers: Bibulous. A drop-in BibTeX replacement based on style templates. 2013.
