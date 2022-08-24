@@ -25,7 +25,7 @@ Ein Eintrag folgt im Grunde der folgenden Struktur:
 @type{key,
   author   = {Nachname, Vorname},
   title    = {Der Titel des Eintrags},
-  subtitle = {Der Untertitel des Eintrags}
+  subtitle = {Der Untertitel des Eintrags},
   year     = {2022}
 }
 ```
