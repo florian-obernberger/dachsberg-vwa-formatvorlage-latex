@@ -66,6 +66,7 @@ Leithner, A: LaTeX-Vorlage für VWAs. 09.02.2021. Url: <https://github.com/a-lei
 
 
 [vwa_cls]: ./vwa.cls	"VWA.cls"
+[vwa_bib]: ./vwa.bib	"vwa.bib"
 [ursprüngliche_vorlage]: https://github.com/a-leithner/latex-vwa-template	"Formatvorlage A. Leithner"
 [l_vwa_cls]: ./licenses/VWA_CLS_LICENSE	"VWA.cls Lizenz"
 [l_bibulous]: ./bibulous/LICENSE.txt	"Bibulous Lizenz"
