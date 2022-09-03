@@ -92,7 +92,7 @@ unterstützt werden:
   entsteht!
 
 In dieser Liste sieht man auch bereits wo bestimmte Felder zum Einsatz kommen, dennoch ist hier
-noch eine Tabelle zu finden.
+noch eine Tabelle zu finden:
 
 |                   | **`book`** | **`incollection`** | **`article`** | **`pdf`** | **`website`** | **`phdthesis`** | **`lecture`** | **`dictionary`** | **`misc`**  |
 |------------------:|:----------:|:------------------:|:-------------:|:---------:|:-------------:|:---------------:|:-------------:|:----------------:|:-----------:|
