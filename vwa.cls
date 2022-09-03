@@ -56,6 +56,10 @@
 \RequirePackage{chngcntr}
 \counterwithout*{footnote}{chapter}
 
+% To include and create code blocks
+\RequirePackage{listings}
+\RequirePackage{color}
+
 % Original Citation implementation
 % \RequirePackage[backend=bibtex,style=verbose,sortlocale=de_DE,hyperref=true,natbib=true,autocite=footnote]{biblatex}
 
