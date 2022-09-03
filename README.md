@@ -27,10 +27,17 @@ sudo apt install texlive-lang-german texlive-latex-base texlive-fonts-recommende
 
 ### Python 3.8+ installieren
 
-Python wird nur dann benötigt, wenn die [automatische Zitation](#zitation) verwendet wird.
+> **Note**
+> 
+> Python wird nur dann benötigt, wenn die [automatische Zitation](#zitation) verwendet wird.
 
 Für die Installation einfach der Seite <https://www.python.org/> eine Version von Python
 (3.8 oder neuer) herunterladen und installieren.
+
+## Tips und Tricks zum Schreiben von Kapiteln
+
+In [`doc/kapitel.md`][doc_kapitel_md] ist eine ausführliche Anleitung zum Schreiben von Kapiteln
+zu finden. Hier wird erklärt, wie man Überschriften setzt, Bilder einfügt, Codeblöcke einfügt, ...
 
 ## Zitation
 
